@@ -1,5 +1,5 @@
 package aaa;
-
+///asdasd
 public class Student implements Interfata{
 
     String nume_student;

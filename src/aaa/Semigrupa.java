@@ -1,5 +1,5 @@
 package aaa;
-
+//asdasda
 import java.util.ArrayList;
 
 public class Semigrupa implements Interfata{
